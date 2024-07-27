@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Salmanscode
-- 👀 I’m interested in DSA and Web development.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👋 Hi, I’m Salman
+- 👀 I’m interested in DSA (Java) and Web development.
+- 🌱 I’m currently exploring FullStack(MERN) Development.
 - 📫  You can reach me @Salmanstwt
 
 <!---
